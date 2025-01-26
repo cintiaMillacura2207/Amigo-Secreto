@@ -36,3 +36,9 @@ function actualizarListaAmigos() {
     }
     return;
 }
+
+// funcion para limpiar la lista de amigos
+function limpiarListaAmigos() {
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+}
