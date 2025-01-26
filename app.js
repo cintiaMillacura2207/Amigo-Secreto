@@ -16,3 +16,8 @@ function agregarAmigo() {
     }
     return;
 }
+
+// funcion para limpiar el input
+function limpiarCaja() {  
+    document.querySelector('#amigo').value = '';
+}
