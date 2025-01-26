@@ -21,3 +21,18 @@ function agregarAmigo() {
 function limpiarCaja() {  
     document.querySelector('#amigo').value = '';
 }
+
+
+// funcion para actualizar la lista de amigos
+function actualizarListaAmigos() {
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+            
+    for (i = 0; i < amigos.length; i++) {
+        console.log(amigos[i]);
+        var li = document.createElement("li");
+        li.innerHTML= amigos[i];
+        lista.appendChild(li);
+    }
+    return;
+}
