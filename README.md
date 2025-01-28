@@ -48,6 +48,14 @@ AMIGO-SECRETO/
 ├── style.css
 ```
 
+## Relacionado
+
+Here are some related projects
+Aquí hay un proyecto que realice de "Juego Secreto"
+
+[Juego Secreto](https://github.com/cintiaMillacura2207/Juego-Secreto)
+
+
 ## Autor
 
 - [Cintia Millacura](https://github.com/cintiaMillacura2207)
