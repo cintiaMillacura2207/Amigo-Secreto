@@ -50,10 +50,6 @@ AMIGO-SECRETO/
 
 ## Autor
 
-Desarrollado por Santiago Zapata Ospina.
-
-## Autor
-
 - [Cintia Millacura](https://github.com/cintiaMillacura2207)
 
 
